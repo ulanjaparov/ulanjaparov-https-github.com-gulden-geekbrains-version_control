@@ -1,1 +1,4 @@
-# ulanjaparov-https-github.com-gulden-geekbrains-version_control
+# created new repository my_seven_repository    
+# text 1
+# text 2
+# text 3
